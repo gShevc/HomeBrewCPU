@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/ghermann/Github/Homebrew_CPU/PS2/rtl/debounce.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debounce
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/ghermann/Github/Homebrew_CPU/PS2/sim/debounce_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_debounce
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ghermann/Github/Homebrew_CPU/Vivado/HomeBrewCPU/HomeBrewCPU.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

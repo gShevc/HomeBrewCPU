@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sat Aug  2 15:12:13 2025
+# Process ID: 52386
+# Current directory: /home/ghermann/Github/Homebrew_CPU/Vivado/HomeBrewCPU/HomeBrewCPU.runs/synth_1
+# Command line: vivado -log debounce.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source debounce.tcl
+# Log file: /home/ghermann/Github/Homebrew_CPU/Vivado/HomeBrewCPU/HomeBrewCPU.runs/synth_1/debounce.vds
+# Journal file: /home/ghermann/Github/Homebrew_CPU/Vivado/HomeBrewCPU/HomeBrewCPU.runs/synth_1/vivado.jou
+# Running On: ghermann-Inspiron-16-7620-2-in-1, OS: Linux, CPU Frequency: 1629.150 MHz, CPU Physical cores: 12, Host memory: 16437 MB
+#-----------------------------------------------------------
+source debounce.tcl -notrace
