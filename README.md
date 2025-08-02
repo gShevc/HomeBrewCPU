@@ -1,6 +1,7 @@
 # HomeBrewCPU
 ## To do list
 - [x] Create a working HDMI Controller
+- [ ] Create a PS/2 Controller to send commands from keyboard to fpga.
 - [ ] Get Risc-V CPU working
 - [ ] Replace the read only Instruction and data memory with a BRAM
 - [ ] Add HDMI Controller to be able to send frames 
